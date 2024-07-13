@@ -111,6 +111,8 @@ scr.onkey(circler, 'C')
 scr.onkey(erase, 'Delete')
 scr.onkeypress(blackening, 'space')
 scr.onkeyrelease(whitening, 'space')
+scr.onkeypress(NInk, 'Tab')
+scr.onkeyrelease(Ink, 'Tab')
 
 scr.listen()
 done()

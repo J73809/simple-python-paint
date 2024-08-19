@@ -1,3 +1,4 @@
-# simple-python-paint
+# Simple-python-paint
 
-This program was made just for fun and for me to practice python turtle graphics 
+This is a more simplistic recreation of Paint program that was amde using Python turtle graphics. It a fun project to start your coding 
+journey.Have a grat time :)
